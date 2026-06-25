@@ -1,0 +1,6 @@
+{
+  "name": "Design System Foundations Builder",
+  "description": "Interactive workbench for Senior Design System architects to define, visualize, check contrast, and export core foundations (Color, Typography, Spacing, Shape, Elevation, and Motion) with Gemini-powered mood matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
